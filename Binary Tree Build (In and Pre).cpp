@@ -44,6 +44,8 @@ node* create_from_Trav(int *in,int *pre,int s,int e)
 	i++;
 	root->left = create_from_Trav(in,pre,s,index-1);
 	root->right = create_from_Trav(in,pre,index+1,e);
+	
+	return root;
 }
 
 
