@@ -9,5 +9,9 @@ It contains the following Data Structures as of now:
 3. Queue
 4. Binary Trees
 5. Binary Search Trees
+6. Graph
+7. Hashing
+8. Trie
+9. Heap
 
 P.S. The list is currently incomplete. I will add more once I study them.
