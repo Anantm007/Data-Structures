@@ -13,5 +13,3 @@ It contains the following Data Structures as of now:
 7. Hashing
 8. Trie
 9. Heap
-
-P.S. The list is currently incomplete. I will add more once I study them.
